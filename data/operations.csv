@@ -1,0 +1,10 @@
+record_id,department,booked_date,amount,currency,status
+S001,Sales,2026-09-01,1200.00,USD,booked
+S002,Sales,2026-09-09,800.00,USD,booked
+V001,Services,2026-09-15,650.00,USD,booked
+V002,Services,2026-09-30,350.00,USD,booked
+S003,Sales,2026-09-20,200.00,USD,booked
+S003,Sales,2026-09-20,200.00,USD,booked
+V003,Services,2026-09-22,500.00,EUR,booked
+V004,Services,2026-10-01,700.00,USD,booked
+S004,Sales,2026-09-24,900.00,USD,cancelled
